@@ -7,7 +7,7 @@ clone the folder to your home directory
 ```
 cd   
 git clone https://github.com/Nex404/ProjectAutoCreate
-cd ProjectAutoCreate
+cd ProjectAutoCreate2.0
 ```
 install all requirements   
 ```
@@ -26,7 +26,7 @@ open your .my_commands.sh file and replaye "YOUR_USERNAME" with your Github user
 open your .bashrc in some editor and paste the following to the EOF
 
 ```
-source ~/ProjectAutoCreate/.my_commands.sh
+source ~/ProjectAutoCreate2.0/.my_commands.sh
 ```
 after that source your .bashrc  
 ```
@@ -35,6 +35,7 @@ source .bashrc
 To prevent some unexpected error create the following folder:   
 ```
 cd
+mkdir projects
 mkdir projects/my_projects
 ``` 
 
