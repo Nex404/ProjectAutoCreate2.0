@@ -21,7 +21,7 @@ open the .env file and enter your Github token in this format:
 ```
 TOKEN = "YOUR_GITHUB_TOKEN"
 ```
-open your .my_commands.sh file and replaye "YOUR_USERNAME" with your Github username   
+open your .my_commands.sh file and replace "YOUR_USERNAME" with your Github username   
 
 open your .bashrc in some editor and paste the following to the EOF
 
