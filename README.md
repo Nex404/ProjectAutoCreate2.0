@@ -43,6 +43,7 @@ If you dont want to autherize with your username and your token every time, use 
 git config --global user.email "your_e-mail"
 git config --global user.name "your_username"
 git config --global user.password "your_auth_token"
+```
 
 ## Usage
 
